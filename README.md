@@ -29,3 +29,5 @@ go install fyne.io/fyne/v2/cmd/fyne@latest
 fyne get github.com/maciej-piatek/TWEENK-Android
 
 You need to have android SDK and NDK installed and set up to compile it.
+
+#THIS IS STILL A WORK IN PROGRESS, A LOT OF STUFF HAS TO BE CHANGED FOR IT TO BE COMFORTABLE TO USE ON A TOUCHSCREEN
